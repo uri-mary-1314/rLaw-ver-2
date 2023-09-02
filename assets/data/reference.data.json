@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "reference_name": "Website Trung Ương Đoàn",
+        "reference_img": "/assets/imgs/reference1.png",
+        "reference_link": "https://doanthanhnien.vn/"
+    },
+    {
+        "id": 2,
+        "reference_name": "Đảng Bộ tỉnh Tuyên Quang",
+        "reference_img": "/assets/imgs/reference2.png",
+        "reference_link": "https://tuyenquang.dcs.vn/"
+    },
+    {
+        "id": 3,
+        "reference_name": "Tra cứu pháp luật - Thư viện pháp luật - Tìm kiếm văn bản pháp luật",
+        "reference_img": "/assets/imgs/reference3.png",
+        "reference_link": "https://lawnet.vn/"
+    },
+    {
+        "id": 4,
+        "reference_name": "Báo Lao động",
+        "reference_img": "/assets/imgs/reference4.png",
+        "reference_link": "https://laodong.vn/"
+    },
+    {
+        "id": 5,
+        "reference_name": "Tạp chí An toàn thông tin",
+        "reference_img": "/assets/imgs/reference5.png",
+        "reference_link": "https://antoanthongtin.vn/"
+    },
+    {
+        "id": 6,
+        "reference_name": "Báo điện tử - Đảng Cộng Sản Việt Nam",
+        "reference_img": "/assets/imgs/reference6.png",
+        "reference_link": "https://dangcongsan.vn/"
+    },
+    {
+        "id": 7,
+        "reference_name": "Thông tấn xã Việt Nam",
+        "reference_img": "/assets/imgs/reference7.png",
+        "reference_link": "https://vnanet.vn/"
+    },
+    {
+        "id": 8,
+        "reference_name": "Báo người lao động",
+        "reference_img": "/assets/imgs/reference8.png",
+        "reference_link": "nld.com.vn"
+    },
+    {
+        "id": 9,
+        "reference_name": "Công ty Luật TNHH Minh Khuê",
+        "reference_img": "/assets/imgs/reference9.png",
+        "reference_link": "https://luatminhkhue.vn/"
+    },
+    {
+        "id": 10,
+        "reference_name": "BCare+",
+        "reference_img": "/assets/imgs/reference10.png",
+        "reference_link": "https://bcare.vn/"
+    },
+    {
+        "id": 11,
+        "reference_name": "Netflix",
+        "reference_img": "/assets/imgs/reference11.png",
+        "reference_link": "https://www.netflix.com/vn/"
+    }
+]
