@@ -1,0 +1,18 @@
+[
+    {
+        "full_name": "Võ Thị Bích Tuyền",
+        "education_level": "Đại học",
+        "position": "Lớp phó học tập",
+        "work_unit": "Học viện Kỹ thuật mật mã",
+        "phone_number": "0865363845",
+        "avatar": "/assets/imgs/VTBT.jpg"
+    },
+    {
+        "full_name": "Nguyễn Văn Dương",
+        "education_level": "Đại học",
+        "position": "Sinh viên",
+        "work_unit": "Đại học Sư phạm Thành phố Hồ Chí Minh",
+        "phone_number": "0332203845",
+        "avatar": "/assets/imgs/NVD.jpg"
+    }
+]
